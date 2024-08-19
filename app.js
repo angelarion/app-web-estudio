@@ -55,7 +55,7 @@ var testimoniosRouter = require('./routes/admin/testimonios');
 //crear testimonios.js
 
 
-const { pool } = require('./models/bd');
+var { pool } = require('./models/bd');
 var app = express();
 
 // view engine setup
