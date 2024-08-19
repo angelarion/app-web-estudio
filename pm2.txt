@@ -1,0 +1,6 @@
+desde el cmd:
+pm2 start ./bin/www
+
+para detener desde el cmd:
+
+pm2 stop all
